@@ -19,7 +19,11 @@ EOF
 cloud-localds user-data.iso user-data
 ```
 
+![](https://raw.githubusercontent.com/kelude/ubuntu-cloud-images-on-virtualbox/main/captures/capture-0.png)
+
 and now you can login with:
 
 - username: `ubuntu`
 - password: `ubuntu`
+
+![](https://raw.githubusercontent.com/kelude/ubuntu-cloud-images-on-virtualbox/main/captures/capture-2.png)
